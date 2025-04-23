@@ -1,0 +1,10 @@
+README.md
+env/
+bigdata/
+*.mp4
+*.zip
+env/
+*.zip
+*.mp4
+__pycache__/
+.ipynb_checkpoints/
